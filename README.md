@@ -3,10 +3,10 @@ Manual de Todo lo visto en PA
 # Manual de Usuario — LINQ en Programación Avanzada
 ### Sistema de Gestión de Pacientes — Arquitectura de 4 Capas con LINQ to SQL
 
-> **Asignatura:** Programación Avanzada
-> **Carrera:** Tecnologias de la Información
-> **Estudiante:** Barahona Edison
->  **Docente:** Ing. Hernan Naranjo Mg.
+> **Asignatura:** Programación Avanzada  
+> **Carrera:** Tecnologias de la Información  
+> **Estudiante:** Barahona Edison  
+> **Docente:** Ing. Hernan Naranjo Mg.  
 > **Base de datos:** SQL Server (ProgramacionAvanzada)  
 > **Tecnología principal:** LINQ to SQL (.NET Framework 4.8 — C#)  
 > **IDE:** Visual Studio 2022+
